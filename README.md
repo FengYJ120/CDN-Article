@@ -1,2 +1,2 @@
-# CDN_Article
+# CDN-Article
 ImageHosting of Article
